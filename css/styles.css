@@ -70,3 +70,13 @@ h3 {
   font-weight: 400;
   text-transform: uppercase;
 }
+
+.btn-white {
+  border-color: #FFF;
+  color: #FFF;
+}
+
+.btn-white:hover, .btn-white:focus {
+  background-color: #FFF;
+  color: #41464B;
+}
