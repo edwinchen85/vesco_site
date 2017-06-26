@@ -44,3 +44,9 @@ h3 {
   height: 100%;
   display: table;
 }
+
+#home-content-box-inner {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
