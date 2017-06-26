@@ -88,3 +88,12 @@ h3 {
   background-color: #FFF;
   color: #41464B;
 }
+
+
+/*=============================================
+  Animate
+=============================================*/
+#home-cover {
+  animation-delay: .1s;
+  animation-duration: .5s;
+}
