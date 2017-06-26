@@ -97,3 +97,8 @@ h3 {
   animation-delay: .1s;
   animation-duration: .5s;
 }
+
+#home-heading {
+  animation-delay: .5s;
+  animation-duration: .5s;
+}
