@@ -1,3 +1,16 @@
+
+/*=============================================
+  DEFAULT VALUES:
+
+  Font family   : Robot Condensed
+
+  Greenish Blue : #34C6D3   (Buttons, Icons, Links, Lines & Backgrounds)
+  Steel Gray    : #41464B   (Headings)
+  Blue Bayoux   : #64707B   (Paragraphs)
+  White         : #FFFFFF   (Text with dark background)
+  Black         : #000000
+=============================================*/
+
 body {
   font-family: "Roboto Condensed", sans-serif;
 }
