@@ -195,3 +195,7 @@ p {
   display: table-cell;
   vertical-align: middle;
 }
+
+#about .content-title h3 {
+  text-align: left;
+}
