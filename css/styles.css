@@ -276,3 +276,20 @@ h4.team-member-designation {
   letter-spacing: 1px;
   margin-top: 5px;
 }
+
+
+/*=============================================
+  Social
+=============================================*/
+.social-list {
+  padding-left: 0;
+}
+
+.social-list li {
+  list-style-type: none;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin-right: 6px;
+  margin-top: 10px;
+}
