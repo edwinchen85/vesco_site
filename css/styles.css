@@ -301,3 +301,7 @@ h4.team-member-designation {
 .social-icon i:hover {
   color: #34C6D3;
 }
+
+.icon-gray i {
+  color: #64707B;
+}
