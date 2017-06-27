@@ -132,3 +132,10 @@ p {
   text-align: center;
   margin-bottom: 30px;
 }
+
+.content-title-underline {
+  width: 30px;
+  height: 3px;
+  background-color: #34C6D3;
+  margin: 0 auto 30px;
+}
