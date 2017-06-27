@@ -164,3 +164,9 @@ p {
   color: #FFF;
   background-color: #34C6D3;
 }
+
+.service-item-title h3 {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
