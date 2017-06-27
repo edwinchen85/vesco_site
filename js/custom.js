@@ -24,5 +24,5 @@ $(function() {
   Team
 =============================================*/
 $(function() {
-
+  $("#team-members").owlCarousel();
 });
