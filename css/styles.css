@@ -170,3 +170,8 @@ p {
   font-weight: 400;
   margin-bottom: 10px;
 }
+
+.service-item-desc p {
+  margin: 0;
+  padding-left: 85px;
+}
