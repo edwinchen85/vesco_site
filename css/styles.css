@@ -226,3 +226,12 @@ p {
 #about-desc p {
   margin-bottom: 30px;
 }
+
+
+/*=============================================
+  Work
+=============================================*/
+.row.no-gutters [class*=col-] {
+  padding-left: 0;
+  padding-right: 0;
+}
