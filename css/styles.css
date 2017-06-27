@@ -96,6 +96,16 @@ p {
   color: #41464B;
 }
 
+.btn-blue {
+  border-color: #34C6D3;
+  color: #34C6D3;
+}
+
+.btn-blue:hover, .btn-blue:focus {
+  background-color: #34C6D3;
+  color: #FFF;
+}
+
 
 /*=============================================
   Animate
