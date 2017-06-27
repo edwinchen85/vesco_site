@@ -139,3 +139,13 @@ p {
   background-color: #34C6D3;
   margin: 0 auto 30px;
 }
+
+
+/*=============================================
+  Services
+=============================================*/
+.service-item {
+  padding: 20px 0;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
