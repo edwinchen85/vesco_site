@@ -267,3 +267,12 @@ h4.team-member-name {
   letter-spacing: 1px;
   padding-top: 2px;
 }
+
+h4.team-member-designation {
+  color: #34C6D3;
+  font-size: 15px;
+  font-weight: 700;
+  font-style: italic;
+  letter-spacing: 1px;
+  margin-top: 5px;
+}
