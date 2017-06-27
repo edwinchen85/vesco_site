@@ -203,3 +203,7 @@ p {
 #about .content-title-underline {
   margin: 0 0 30px 0;
 }
+
+#about-desc p {
+  margin-bottom: 30px;
+}
