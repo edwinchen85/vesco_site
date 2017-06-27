@@ -190,3 +190,8 @@ p {
   height: 100%;
   display: table;
 }
+
+#about-content-box-inner {
+  display: table-cell;
+  vertical-align: middle;
+}
