@@ -330,3 +330,15 @@ h4.team-member-designation {
   max-width: 120px;
   margin: 0 auto;
 }
+
+.testimonial blockquote {
+  border: 0;
+  font-family: Georgia, sans-serif;
+  font-style: italic;
+  padding: 6px 150px;
+  position: relative;
+}
+
+.testimonial blockquote p {
+  color: #FFF;
+}
