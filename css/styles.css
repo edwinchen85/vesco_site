@@ -431,3 +431,11 @@ ul.pricing-spec li p {
 .pricing-box-lg ul.pricing-spec li p {
   color: #FFF;
 }
+
+
+/*=============================================
+  Stats
+=============================================*/
+#stats-cover {
+  background-image: url("../img/bg-stats.jpg");
+}
