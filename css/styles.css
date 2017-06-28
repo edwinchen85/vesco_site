@@ -557,3 +557,15 @@ form .form-control {
 #footer-menu ul li {
   display: inline-block;
 }
+
+#footer-menu a {
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+#footer-menu a:hover {
+  color: #34C6D3;
+}
