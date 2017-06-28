@@ -60,5 +60,11 @@ $(function() {
   Clients
 =============================================*/
 $(function() {
-  $("#clients-list").owlCarousel();
+  $("#clients-list").owlCarousel({
+    items: 6,
+    autoplay: true,
+    smartSpeed: 700,
+    loop: true,
+    autoplayHoverPause: true
+  });
 });
