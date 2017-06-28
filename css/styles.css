@@ -525,3 +525,13 @@ form .form-control {
   margin-bottom: 20px;
   color: #FFF;
 }
+
+
+/*=============================================
+  Footer
+=============================================*/
+#footer-bottom {
+  background-color: rgba(0,0,0,.1);
+  padding: 30px 0;
+  margin-top: 60px;
+}
