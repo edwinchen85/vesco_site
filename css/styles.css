@@ -416,3 +416,18 @@ ul.pricing-spec li p {
   font-weight: 400;
   text-transform: uppercase;
 }
+
+.pricing-box-lg {
+  padding: 90px 0;
+  margin: 0;
+  background-color: #34C6D3;
+}
+
+.pricing-box-lg h4.pricing-title {
+  color: #34C6D3;
+  background-color: #FFF;
+}
+
+.pricing-box-lg ul.pricing-spec li p {
+  color: #FFF;
+}
