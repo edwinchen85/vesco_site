@@ -405,3 +405,14 @@ h3.pricing-value sup {
   font-weight: normal;
   vertical-align: super;
 }
+
+ul.pricing-spec {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 20px 0 60px 0;
+}
+
+ul.pricing-spec li p {
+  font-weight: 400;
+  text-transform: uppercase;
+}
