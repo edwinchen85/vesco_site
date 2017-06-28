@@ -313,3 +313,7 @@ h4.team-member-designation {
 #testimonials-cover {
   background-image: url("../img/bg-testimonials.jpg");
 }
+
+#testimonials .content-box {
+  background-color: rgba(0,0,0,.1);
+}
