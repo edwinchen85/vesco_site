@@ -501,3 +501,12 @@ footer {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+address {
+  color: #FFF;
+}
+
+address strong,
+#phone-fax-email strong {
+  letter-spacing: 1px;
+}
