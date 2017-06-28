@@ -484,3 +484,14 @@ footer {
   padding-top: 30px;
   border-top: 5px solid rgba(0,0,0,.1);
 }
+
+#contact-left h3 {
+  color: #FFF;
+  font-size: 27px;
+  font-weight: 700;
+}
+
+#contact-left p {
+  color: #FFF;
+  margin-bottom: 30px;
+}
