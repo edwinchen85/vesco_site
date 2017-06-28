@@ -50,5 +50,5 @@ $(function() {
   Testimonials
 =============================================*/
 $(function() {
-
+  $(".counter").counterUp();
 });
