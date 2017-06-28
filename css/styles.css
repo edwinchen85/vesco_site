@@ -365,3 +365,11 @@ h4.team-member-designation {
   bottom: 0;
   right: 100px;
 }
+
+.testimonial-author p {
+  color: #FFF;
+}
+
+.testimonial-author strong {
+  display: block;
+}
