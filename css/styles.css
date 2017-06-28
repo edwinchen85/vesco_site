@@ -514,3 +514,14 @@ address strong,
 #phone-fax-email strong {
   letter-spacing: 1px;
 }
+
+form .form-control {
+  background: transparent;
+  border-radius: 0;
+  border-color: #FFF;
+  font-size: 17px;
+  font-weight: 300;
+  padding: 8px 16px;
+  margin-bottom: 20px;
+  color: #FFF;
+}
