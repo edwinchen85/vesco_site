@@ -305,3 +305,11 @@ h4.team-member-designation {
 .icon-gray i {
   color: #64707B;
 }
+
+
+/*=============================================
+  Testimonials
+=============================================*/
+#testimonials-cover {
+  background-image: url("../img/bg-testimonials.jpg");
+}
