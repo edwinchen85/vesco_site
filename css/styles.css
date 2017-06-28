@@ -439,3 +439,7 @@ ul.pricing-spec li p {
 #stats-cover {
   background-image: url("../img/bg-stats.jpg");
 }
+
+#stats .content-box {
+  background-color: rgba(0,0,0,.8);
+}
