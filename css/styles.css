@@ -540,3 +540,10 @@ form .form-control {
   margin: 0;
   color: #FFF;
 }
+
+#footer-menu {
+  float: left;
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 300;
+}
