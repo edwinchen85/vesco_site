@@ -334,6 +334,7 @@ h4.team-member-designation {
 .testimonial blockquote {
   border: 0;
   font-family: Georgia, sans-serif;
+  color: #FFF;
   font-style: italic;
   padding: 6px 150px;
   position: relative;
