@@ -143,6 +143,10 @@ p {
   margin-bottom: 30px;
 }
 
+.content-title-white h3 {
+  color: #FFF;
+}
+
 .content-title-underline {
   width: 30px;
   height: 3px;
