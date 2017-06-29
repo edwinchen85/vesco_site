@@ -57,7 +57,16 @@
 
 /* Extra small devices (Landscape phones & portrait tablets) */
 @media (max-width: 767px) {
-
+  .navbar {
+    background: rgba(0,0,0,.7);
+    padding: 0;
+  }
+  .navbar-nav {
+    float: left;
+  }
+  .vesco-nav-wrapper {
+    padding: 0;
+  }
 }
 
 /* Extra small devices (Smaller devices) */
