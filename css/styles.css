@@ -618,3 +618,7 @@ form .form-control {
 .navbar-collapse {
   max-height: none !important;
 }
+
+.vesco-top-nav #vesco-menu li.active > a {
+  color: #34C6D3;
+}
