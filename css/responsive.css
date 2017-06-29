@@ -121,5 +121,9 @@
 
 /* Extra small devices (Smaller devices) */
 @media (max-width: 320px) {
-
+  .service-item-icon i {
+    width: 58px;
+    height: 58px;
+    padding: 7px;
+  }
 }
