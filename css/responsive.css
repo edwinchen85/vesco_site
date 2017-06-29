@@ -91,6 +91,19 @@
   .img-wrapper img {
     min-width: 100%;
   }
+
+  .testimonial blockquote {
+    padding: 6px 50px;
+  }
+  .testimonial blockquote::before {
+    left: 10px;
+  }
+  .testimonial blockquote::after {
+    right: 10px;
+  }
+  .testimonial blockquote p {
+    font-size: 14px;
+  }
 }
 
 /* Extra small devices (Smaller devices) */
