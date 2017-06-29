@@ -129,4 +129,8 @@
   .service-item-title h3 {
     font-size: 17px;
   }
+
+  #about-content-box {
+    margin-top: 40px;
+  }
 }
