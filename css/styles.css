@@ -569,3 +569,11 @@ form .form-control {
 #footer-menu a:hover {
   color: #34C6D3;
 }
+
+
+/*=============================================
+  Navigation
+=============================================*/
+.navbar {
+  padding: 20px 0;
+}
