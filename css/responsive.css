@@ -104,6 +104,10 @@
   .testimonial blockquote p {
     font-size: 14px;
   }
+
+  .stats-item {
+    padding: 20px 0;
+  }
 }
 
 /* Extra small devices (Smaller devices) */
