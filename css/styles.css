@@ -586,3 +586,7 @@ form .form-control {
 .vesco-nav-wrapper {
   padding: 0 85px;
 }
+
+.navbar-nav {
+  float: right;
+}
