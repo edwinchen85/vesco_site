@@ -604,3 +604,13 @@ form .form-control {
   background: none;
   color: #34C6D3;
 }
+
+.navbar-toggle {
+  background-color: rgba(0,0,0,.1);
+  border: 1px solid #FFF;
+  border-radius: 0;
+}
+
+.navbar-toggle .icon-bar {
+  background-color: #FFF;
+}
