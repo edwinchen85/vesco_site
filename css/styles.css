@@ -582,3 +582,7 @@ form .form-control {
   background: rgba(0,0,0,.7);
   padding: 7px 0;
 }
+
+.vesco-nav-wrapper {
+  padding: 0 85px;
+}
