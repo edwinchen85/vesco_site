@@ -71,6 +71,11 @@
   #home-heading h3 {
     font-size: 24px;
   }
+
+  .btn-general {
+    padding: 6px 22px;
+    font-size: 14px;
+  }
 }
 
 /* Extra small devices (Smaller devices) */
