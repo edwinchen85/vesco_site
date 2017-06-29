@@ -590,3 +590,17 @@ form .form-control {
 .navbar-nav {
   float: right;
 }
+
+#vesco-menu a {
+  color: #FFF;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+#vesco-menu a:hover,
+#vesco-menu a:focus {
+  background: none;
+  color: #34C6D3;
+}
