@@ -49,6 +49,10 @@
   .stats-item {
     padding: 20px 0;
   }
+
+  #footer-copyrights {
+    text-align: center;
+  }
 }
 
 /* Extra small devices (Landscape phones & portrait tablets) */
