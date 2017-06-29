@@ -89,6 +89,6 @@ $(function() {
 
     $('html, body').animate({
       scrollTop: $(section).offset().top - 64
-    }, 1250);
+    }, 1250, "easeInOutExpo");
   });
 });
