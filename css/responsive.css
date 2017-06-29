@@ -34,6 +34,17 @@
   .vesco-nav-wrapper {
     padding: 0;
   }
+
+  #about-bg-diagonal {
+    border-left: 0;
+    border-top: 0;
+    width: 100%;
+    height: 350px;
+  }
+  #about-content-box {
+    width: 100%;
+    height: 350px;
+  }
 }
 
 /* Extra small devices (Landscape phones & portrait tablets) */
