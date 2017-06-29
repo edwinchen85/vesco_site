@@ -81,3 +81,14 @@ $(function() {
     }
   });
 });
+
+// Smooth scrolling
+$(function() {
+  $("a.smooth-scroll").click(function(event) {
+    var section = $(this).attr("href");
+
+    $('html, body').animate({
+      scrollTop: $(section).offset().top - 64
+    }, 1250);
+  });
+});
