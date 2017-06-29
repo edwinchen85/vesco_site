@@ -126,4 +126,7 @@
     height: 58px;
     padding: 7px;
   }
+  .service-item-title h3 {
+    font-size: 17px;
+  }
 }
